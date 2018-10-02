@@ -77,7 +77,7 @@ Defining and enforcing consistent business processes is one of the main reasons 
 ## Where do I go to create processes?  
  There are two paths to navigate to processes:  
   
-- **Settings>Processes.** in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] this path is easiest to access and allows you to use views defined for the Process entity, including any custom views.  
+- **Settings > Processes.** in [!INCLUDE[pn_dynamics_crm](../includes/pn-dynamics-crm.md)] this path is easiest to access and allows you to use views defined for the Process entity, including any custom views.  
   
 - In solution explorer. **Components > Processes.** This path provides convenient access when you are doing other customization work in the customization tools.  
   
